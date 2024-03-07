@@ -1,0 +1,3 @@
+git remoto agregar origen https://github.com/XOto22/XOto22.git
+ git rama -M principal 
+git push -u origen principal
